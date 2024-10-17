@@ -39,7 +39,7 @@ The database consists of several key tables, each serving a specific purpose:
 
 The Entity-Relationship (ER) diagram provides a visual representation of the relationships between the tables in the database. This diagram is essential for understanding how the different entities in the system are interconnected.
 
-
+![ER Diagram](https://github.com/user-attachments/assets/e623a5bf-a2b4-43e0-b3c7-98e8de583779)
 
 ## How This Database Helps
 
