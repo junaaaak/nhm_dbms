@@ -53,3 +53,4 @@ Potential future enhancements for this system include:
 - **Integration with Government Systems**: Expanding the system to connect with national health databases for improved data sharing.
 - **Mobile Application Development**: Allowing healthcare workers to update records in real-time via mobile devices.
 - **Disease Surveillance**: Adding features to track disease outbreaks and improve rapid response efforts.
+- **Vaccination Scheduling & Reminders**: The database can be enhanced to automate vaccination scheduling for children and send SMS or email reminders to parents and healthcare workers, reducing missed appointments and improving immunization rates.
